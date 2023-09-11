@@ -1,1 +1,0 @@
-![sunshine setup](sunshine_setup.png)
